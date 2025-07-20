@@ -1,0 +1,24 @@
+# CLI application specific
+/target/
+**/*.rs.bk
+
+# Binary releases
+/release/
+mdz-cli
+mdz.exe
+
+# Test outputs
+test*.mdz
+test*.html
+extracted-*/
+
+# CLI logs
+*.log
+cli.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store

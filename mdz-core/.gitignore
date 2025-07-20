@@ -1,0 +1,17 @@
+# Core library specific
+/target/
+**/*.rs.bk
+
+# Documentation builds
+/doc/
+
+# Test files
+test*.mdz
+examples/*.mdz
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
