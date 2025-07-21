@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Core library for parsing and rendering MDZ (Markdown Zipped) documents"
 license = "MIT"
-repository = "https://github.com/your-username/mdz"
+repository = "https://github.com/mdz-format/mdz"
 
 [dependencies]
 zip = "0.6"

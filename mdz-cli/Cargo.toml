@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Command-line tool for creating and managing MDZ (Markdown Zipped) documents"
 license = "MIT"
-repository = "https://github.com/your-username/mdz"
+repository = "https://github.com/mdz-format/mdz"
 
 [dependencies]
 mdz-core = { path = "../mdz-core" }
